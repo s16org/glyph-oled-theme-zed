@@ -3,7 +3,7 @@
 	xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011"
 	xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 	<Metadata>
-		<Identity Language="en-US" Id="glyph-oled-vscode" Version="1.0.4" Publisher="s16dih" />
+		<Identity Language="en-US" Id="glyph-oled-vscode" Version="1.0.467" Publisher="s16dih" />
 		<DisplayName>Glyph Oled</DisplayName>
 		<Description xml:space="preserve">Glyph Oled: a pure black VS Code theme.</Description>
 		<Tags>theme,color-theme,__web_extension</Tags>
