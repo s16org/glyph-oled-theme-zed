@@ -66,6 +66,6 @@ This project follows the [Contributor Covenant Code of Conduct](https://www.cont
 
 ## Author
 
-- [@s16dih](https://github.com/gustambolopez)
+[@s16dih](https://github.com/s16dih)
 
 ---

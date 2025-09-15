@@ -4,9 +4,15 @@ All notable changes to the "glyph oled" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.05] - 2024-01-10
+
+### Added in 1.05
+
+- Extension logo
+
 ## [1.04] - 2024-01-09
 
-### Added
+### Added in 1.04
 
 - Partial syntax highlighting support for multiple languages:
   - Python
