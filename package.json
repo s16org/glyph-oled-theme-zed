@@ -3,13 +3,11 @@
 	"displayName": "Glyph Oled",
 	"description": "Glyph Oled: a pure black vs code theme for a better coding experience.",
 	"publisher": "s16dih",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"engines": {
 		"vscode": "^1.62.0"
 	},
-	"categories": [
-		"Themes"
-	],
+	"categories": ["Themes"],
 	"contributes": {
 		"themes": [
 			{
