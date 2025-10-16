@@ -1,13 +1,9 @@
-# Glyph Oled theme
 
+# Glyph Oled Theme
+(vscode preview)
 ![preview](https://files.catbox.moe/wkini9.png)
 
-Glyph Oled Theme is a true Oled dark theme for Visual Studio Code, with a pitch-black background and clear syntax highlighting for better readability.
-
----
-
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/s16dih.glyph-oled-vscode)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/s16dih.glyph-oled-vscode)
+Glyph Oled Theme is a true oled dark theme for Zed and vscode, with a pitch black background and clear syntax highlighting for better readability.
 
 ---
 
@@ -21,19 +17,16 @@ Glyph Oled Theme is a true Oled dark theme for Visual Studio Code, with a pitch-
 
 ## Recommended Settings
 
-To match the preview, use this `settings.json`:
+To match the preview in Zed, add this to your `settings.json`:
 
 ```json
 {
-  "workbench.colorTheme": "Glyph Oled",
-  "workbench.iconTheme": "vs-seti",
-  "workbench.editor.empty.hint": "hidden",
-
+  "theme": "Glyph Oled",
   "editor.fontFamily": "JetBrains Mono, Fira Code, 'Cascadia Code', Consolas, monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 13.2,
   "editor.lineHeight": 1.5,
-  "editor.fontWeight": "376",
+  "editor.fontWeight": 376,
   "editor.cursorBlinking": "smooth",
   "editor.renderWhitespace": "boundary",
   "editor.smoothScrolling": true,
@@ -41,18 +34,17 @@ To match the preview, use this `settings.json`:
   "editor.minimap.enabled": false,
   "editor.bracketPairColorization.enabled": true
 }
-
-```
+````
 
 ---
 
 ## Installation
 
-1. Open VS Code.
-2. Open **Extensions Marketplace** (`Ctrl+Shift+X` / `Cmd+Shift+X`).
-3. Search **Glyph OLED Theme**.
+1. Open Zed.
+2. Open **Extensions Marketplace**.
+3. Search **Glyph Oled Theme**.
 4. Click **Install**.
-5. Apply via **Preferences → Color Theme**.
+5. Apply via **Preferences → Themes → Glyph Oled**.
 
 ---
 
@@ -67,5 +59,3 @@ This project follows the [Contributor Covenant Code of Conduct](https://www.cont
 ## Author
 
 [@s16dih](https://github.com/gustambolopez)
-
----
