@@ -4,6 +4,8 @@
 ![preview](https://files.catbox.moe/wkini9.png)
 
 Glyph Oled Theme is a true oled dark theme for Zed and vscode, with a pitch black background and clear syntax highlighting for better readability.
+Its not on the zed marketplace rn so: download the json file 
+so go to **Settings → Themes → Add Local Theme**, select the `glyph-oled.json` file.
 
 ---
 
