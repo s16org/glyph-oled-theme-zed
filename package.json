@@ -1,30 +1,25 @@
 {
-	"name": "glyph-oled-vscode",
-	"displayName": "Glyph Oled",
-	"description": "Glyph Oled: a pure black vs code theme for a better coding experience.",
-	"publisher": "s16dih",
-	"version": "1.0.467",
-	"engines": {
-		"vscode": "^1.62.0"
-	},
-	"icon": "logo.png",
-	"categories": ["Themes"],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Glyph Oled",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Glyph-oled.json"
-			}
-		]
-	},
-	"__metadata": {
-		"installedTimestamp": 1757946373731,
-		"targetPlatform": "undefined",
-		"size": 44259
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/gustambolopez/glyph-oled-theme"
-	}
+  "name": "glyph-oled-zed",
+  "displayName": "Glyph Oled",
+  "description": "Glyph Oled: a pure black Zed theme for a better coding experience.",
+  "publisher": "s16dih",
+  "version": "1.0.0,
+  "engines": {
+    "zed": "^1.0.0"
+  },
+  "categories": ["Themes"],
+  "icon": "logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Glyph Oled",
+        "uiTheme": "dark",
+        "path": "./themes/Glyph-oled.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustambolopez/glyph-oled-theme"
+  }
 }
